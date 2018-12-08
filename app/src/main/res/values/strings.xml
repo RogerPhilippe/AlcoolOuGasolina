@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlcoolOuGasolina</string>
+    <string name="label_preco_alcool">Preço Álcool</string>
+    <string name="label_preco_gasolina">Preço Gasolina</string>
+    <string name="logo_description">logo</string>
+    <string name="btn_verificar">Verificar</string>
+</resources>
